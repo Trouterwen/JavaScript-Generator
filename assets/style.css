@@ -135,3 +135,14 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+ h2 {
+text-align:center;
+
+ }
+
+ textarea{
+  display: flex;
+  flex-wrap: wrap;
+position: relative;
+left: 185px
+ }
